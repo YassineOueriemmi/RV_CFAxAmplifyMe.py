@@ -1,4 +1,4 @@
-# RV_CFAxAmplifyMe.py
+# RV_CFA
 
 A lightweight Python/Tkinter tool that calculates **long/short quantities** based on price inputs, base notional, and target net exposure.
 
