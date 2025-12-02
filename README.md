@@ -22,11 +22,11 @@ Designed for quick usage and training practice (AmplifyME, CFA, trading games, i
 - Target net exposure  
 
 ### **Calculations**
-Long Notional = Base Notional + (Net Exposure / 2)
-Short Notional = Base Notional - (Net Exposure / 2)
+- Long Notional = Base Notional + (Net Exposure / 2)
+- Short Notional = Base Notional - (Net Exposure / 2)
 
-Long Quantity = Long Notional / Price A
-Short Quantity = Short Notional / Price B
+- Long Quantity = Long Notional / Price A
+- Short Quantity = Short Notional / Price B
 
 ---
 
