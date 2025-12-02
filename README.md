@@ -11,7 +11,7 @@ This tool computes:
 
 Designed for quick usage and training practice (AmplifyME, CFA, trading games, interview prep, etc.).
 
-
+---
 
 ## Functionality
 
