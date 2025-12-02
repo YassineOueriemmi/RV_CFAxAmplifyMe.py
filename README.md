@@ -22,3 +22,17 @@ Designed for quick usage and training practice (AmplifyME, CFA, trading games, i
 - Target net exposure  
 
 ### **Calculations**
+Long Notional = Base Notional + (Net Exposure / 2)
+Short Notional = Base Notional - (Net Exposure / 2)
+
+Long Quantity = Long Notional / Price A
+Short Quantity = Short Notional / Price B
+
+---
+
+##How to Run
+
+Requires **Python 3.8+** (Tkinter included by default).
+
+```bash
+python RV_CFAxAmplifyMe.py
